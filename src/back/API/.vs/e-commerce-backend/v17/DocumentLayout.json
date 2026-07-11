@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\herei\\source\\repos\\e-commerce-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{510F94BA-B637-4ACE-AE41-7BADEFB96503}|API.csproj|c:\\users\\herei\\source\\repos\\e-commerce-backend\\productsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510F94BA-B637-4ACE-AE41-7BADEFB96503}|API.csproj|solutionrelative:productsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141BAF37-56B7-470E-8C7E-219E6E18B955}|..\\Domain\\Domain.csproj|c:\\users\\herei\\source\\repos\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510F94BA-B637-4ACE-AE41-7BADEFB96503}|API.csproj|c:\\users\\herei\\source\\repos\\e-commerce-backend\\e-commerce-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{510F94BA-B637-4ACE-AE41-7BADEFB96503}|API.csproj|solutionrelative:e-commerce-backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510F94BA-B637-4ACE-AE41-7BADEFB96503}|API.csproj|c:\\users\\herei\\source\\repos\\e-commerce-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510F94BA-B637-4ACE-AE41-7BADEFB96503}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC9E3F9-C680-4614-A7EA-FA6FE41D73DD}|..\\Infrastructure\\Infrastructure.csproj|c:\\users\\herei\\source\\repos\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\herei\\source\\repos\\e-commerce-backend\\ProductsEndpoints.cs",
+              "RelativeDocumentMoniker": "ProductsEndpoints.cs",
+              "ToolTip": "C:\\Users\\herei\\source\\repos\\e-commerce-backend\\ProductsEndpoints.cs",
+              "RelativeToolTip": "ProductsEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T16:33:01.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "e-commerce-backend.http",
+              "DocumentMoniker": "C:\\Users\\herei\\source\\repos\\e-commerce-backend\\e-commerce-backend.http",
+              "RelativeDocumentMoniker": "e-commerce-backend.http",
+              "ToolTip": "C:\\Users\\herei\\source\\repos\\e-commerce-backend\\e-commerce-backend.http",
+              "RelativeToolTip": "e-commerce-backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-10T15:20:51.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\herei\\source\\repos\\e-commerce-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\herei\\source\\repos\\e-commerce-backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:16:51.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\herei\\source\\repos\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\herei\\source\\repos\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:08:56.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\herei\\source\\repos\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\herei\\source\\repos\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:04:11.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
